@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/YasiTL/YasiTL/blob/master/yasamanmostheader.png"/></div>
 
-## Hi, I am Yasaman but since you're here, you can call me Yasi ✨
+### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
 ### About me 
-I am a 2nd year computer science student at Illinois Institute of Technology. I am really passionate about developing technology that positively impacts lots of people. I am constantly seeking the next challenge and people I can help rise with me.
+I am a 2nd year computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
 
 ### 👪 Communities I am involved in...
 * Association for Computing Machinery & ACM's women in computing (ACM-W)
@@ -17,11 +17,13 @@ I am a 2nd year computer science student at Illinois Institute of Technology. I 
 * Designing and managing development projects
 * Teaching and mentoring young women
 
-### 👀 What I am learning right now...
+### 👀 What I am currious about right now...
 * Computer Graphics
+* Unity/Video Game Development
 * DevOps
+* EdTech
 * Backend web development (Express, MongoDB)
-* ... and anything I can get my hands on
+* ... and so many more things every day. 
 
 
 <!--
