@@ -2,7 +2,7 @@
 
 ### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
-### About me 
+### 🤘 About me 
 I am a 2nd year computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
 
 ### 👪 Communities I am involved in...
