@@ -11,7 +11,7 @@ I am a 2nd year computer science student at Illinois Institute of Technology. I 
 * Designing and managing development projects
 * Teaching and mentoring young women
 
-### 👀 What I am currious about right now...
+### 👀 What I am curious about right now...
 * Computer Graphics
 * Unity/Video Game Development
 * DevOps
