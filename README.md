@@ -7,17 +7,10 @@ I am a 2nd year computer science student at Illinois Institute of Technology. I 
 
 ### 💖 What I love doing...
 * Full stack web development
+* Learning about Education Techology
 * UI/UX Design
 * Designing and managing creative and technical projects
 * Teaching and mentoring young women
-
-### 👀 What I am curious about right now...
-* Computer Graphics
-* Unity/Video Game Development
-* DevOps
-* EdTech
-* Backend web development (Express, MongoDB)
-* ... and so many more things every day.
 
 🌟 I am always open to chat, just shoot me an email!
 
