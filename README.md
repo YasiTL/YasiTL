@@ -3,11 +3,11 @@
 ### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
 ### 🤘 About me 
-I am a 2nd year computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
+I am a 3rd year computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
 
 ### 💖 What I love doing...
 * Full stack web development
-* Learning about Education Techology
+* Learning about Education, and Education Techology
 * UI/UX Design
 * Designing and managing creative and technical projects
 * Teaching and mentoring young women
