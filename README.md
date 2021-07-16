@@ -12,16 +12,16 @@ I am a 3rd year computer science student at Illinois Institute of Technology. I 
 * Designing and managing creative and technical projects
 * Teaching and mentoring young women
 
-🌟 I am always open to chat, just shoot me an email!
 
-<!--
 ### 👪 Communities I am involved in...
 * Association for Computing Machinery & ACM's women in computing (ACM-W)
 * National Center for Women in Technology
 * Webmaster Google Developer Student Club
-* Organizer and Web Project manager at Backpat tutoring
+* Board of directors and Engineering Project manager at Backpat tutoring
 
--->
+🌟 I am always open to chat, just shoot me an email!
+
+
 
 <!--
 **YasiTL/YasiTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
