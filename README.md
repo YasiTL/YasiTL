@@ -16,8 +16,7 @@ I am a 3rd year computer science student at Illinois Institute of Technology. I 
 ### 👪 Communities I am involved in...
 * Association for Computing Machinery & ACM's women in computing (ACM-W)
 * National Center for Women in Technology
-* Webmaster Google Developer Student Club
-* Board of directors and Engineering Project manager at Backpat tutoring
+* Member on board of directors and lead engineer at Backpat tutoring
 
 🌟 I am always open to chat, just shoot me an email!
 
