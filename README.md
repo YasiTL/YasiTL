@@ -3,7 +3,7 @@
 ### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
 ### 🤘 About me 
-I am a 3rd year computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
+I am a senior computer science student at Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
 
 ### 💖 What I love doing...
 * Full stack web development
