@@ -15,8 +15,8 @@ I am a software engineer at Saga Educatiton, and a recent graduate of Illinois I
 
 ### 👪 Communities I am involved in...
 * Association for Computing Machinery & ACM's women in computing (ACM-W)
-* National Center for Women in Technology
-* Member on board of directors and lead engineer at Backpat tutoring
+* National Center for Women in Technology (NCWIT)
+* I am a runner!
 
 🌟 I am always open to chat, just shoot me an email!
 
