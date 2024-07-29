@@ -7,26 +7,37 @@ I am a software engineer at Saga Education. I am passionate about developing tec
 
 ### 💖 What I love doing...
 Full stack web development
+
 Learning about Education, and Education Technology
+
 UI/UX Design
+
 Designing and managing creative and technical projects
+
 Teaching and mentoring young people
 
-### 👪 Communities I am involved in...
-Spewak Racing in STL - I am a marathon runner!
+Helping college students find internships, and define their college experience.
 
 ### 🗣️ Talk to me about...
 Being a hobby collector (foreshadowing)
+
 Running/Being Active
+
 Hiking/Camping/Backpacking
+
 Starting a community group or club
+
 STL CITY
+
 Computer Graphics
+
 Painting and Drawing
+
 Knitting/Fiber Arts
+
 Whatever weird hobby you're into this month
 
-🌟 I am always open to chat! 
+🌟 I am always open to chat! Just shoot me an email.
 
 
 
