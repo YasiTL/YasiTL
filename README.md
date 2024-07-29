@@ -3,22 +3,30 @@
 ### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
 ### 🤘 About me 
-I am a software engineer at Saga Education, and a recent graduate of Illinois Institute of Technology. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and always looking for people I can help rise with me.
+I am a software engineer at Saga Education. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and for people I can help rise with me.
 
 ### 💖 What I love doing...
-* Full stack web development
-* Learning about Education, and Education Techology
-* UI/UX Design
-* Designing and managing creative and technical projects
-* Teaching and mentoring young people
-
+Full stack web development
+Learning about Education, and Education Technology
+UI/UX Design
+Designing and managing creative and technical projects
+Teaching and mentoring young people
 
 ### 👪 Communities I am involved in...
-* Association for Computing Machinery & ACM's women in computing (ACM-W)
-* National Center for Women in Technology (NCWIT)
-* I am a runner!
+Spewak Racing in STL - I am a marathon runner!
 
-🌟 I am always open to chat, just shoot me an email!
+### 🗣️ Talk to me about...
+Being a hobby collector (foreshadowing)
+Running/Being Active
+Hiking/Camping/Backpacking
+Starting a community group or club
+STL CITY
+Computer Graphics
+Painting and Drawing
+Knitting/Fiber Arts
+Whatever weird hobby you're into this month
+
+🌟 I am always open to chat! 
 
 
 
