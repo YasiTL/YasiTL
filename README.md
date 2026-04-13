@@ -3,7 +3,7 @@
 ### Hi, I am Yasaman! But since you're here, you can call me Yasi ✨
 
 ### 🤘 About me 
-I am a software engineer at Saga Education. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and for people I can help rise with me.
+I am a software engineer at Riot Games. I am passionate about developing technology that will leave a lasting mark on the communities I love. I am always seeking the next challenge and for people I can help rise with me.
 
 ### 💖 What I love doing...
 Full stack web development
@@ -21,7 +21,9 @@ Helping college students find internships, and define their college experience.
 ### 🗣️ Talk to me about...
 Being a hobby collector (foreshadowing)
 
-Running/Being Active
+Running
+
+Ironman 70.3
 
 Hiking/Camping/Backpacking
 
